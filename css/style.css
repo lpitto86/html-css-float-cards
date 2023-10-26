@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Fredoka', sans-serif;
+    background-color: white;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0;
+    padding: 30px;
+}
+.pink-color {
+    color: #e53170;
+}
