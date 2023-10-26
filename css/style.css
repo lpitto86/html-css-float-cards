@@ -17,3 +17,7 @@ html {
 .pink-color {
     color: #e53170;
 }
+
+h1 {
+    margin: 30px;
+}
