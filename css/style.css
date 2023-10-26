@@ -50,4 +50,8 @@ h1 {
 p {
     font-family: Arial, Helvetica, sans-serif;
 }
-    
+
+.style {
+    float:right;
+    text-align: justify;
+}
